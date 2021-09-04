@@ -225,6 +225,65 @@ b. El voltaje entre el neutro de la carga y el neutro del generador.
 
 ### CAPITULO 25
 
+**25-1 Formas de onda compuestas**
+
+1. 
+
+![image](https://user-images.githubusercontent.com/85126275/132106133-65af058b-79f1-4875-8feb-ea6e262d4212.png)
+
+a. Determine el voltaje rms de la forma de onda que se muestra en la figura 25-46.
+
+![image](https://user-images.githubusercontent.com/85126275/132106162-32e811bf-b3dd-44c0-aa29-5ee79d954400.png)
+
+b. Si esta forma de onda se aplica a un resistor de 50 ohm , ¿cuánta potencia disipará el resistor?
+
+![image](https://user-images.githubusercontent.com/85126275/132106173-45a94a4d-6e69-467f-a9e0-45bab0f8cce5.png)
+
+2. Repita el problema 1 si la forma de onda de la figura 25-47 se aplica a un resistor de 250 ohm.
+
+![image](https://user-images.githubusercontent.com/85126275/132106145-f457d7d8-e5c9-46ec-8746-0742edd800fa.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132106182-5cc0f51c-cd28-4ec9-867a-926f04607bb6.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132106214-18e53f45-a969-4947-ae98-f5ae36423199.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132106218-fe72f6b4-479a-4d9f-a129-c19d3094d7c1.png)
+
+3. Repita el problema 1 si la forma de onda de la figura 25-48 se aplica a un resistor de 2.5 kohm.
+
+![image](https://user-images.githubusercontent.com/85126275/132106230-75ba1544-fe65-47ee-8af5-ff5784d471cf.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132106240-af40944c-d4f8-4cb7-8aa0-7f5728596ecf.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132106265-585f10ef-84c4-400f-a2d7-8a318bcb82c3.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132106272-395af88d-5cdf-4b84-baa9-7829924edb17.png)
+
+4. Repita el problema 1 si la forma de onda de la figura 25-49 se aplica a un resistor de 10 kohm.
+
+![image](https://user-images.githubusercontent.com/85126275/132106234-413a7f0a-860e-43ce-807e-a26bfc4b0fde.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132106280-be5f5eb4-9547-41de-91ec-8476305772a4.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132106299-0d1e4146-a540-4687-a697-e98dd56546ef.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132106308-1eb7848a-6d0f-403f-aa76-8bb4e1ca8416.png)
+
+**25-2 Serie de Fourier**
+
+5. Use cálculo para deducir la serie de Fourier de la forma de onda que se ilustra en la figura 25-50.
+
+![image](https://user-images.githubusercontent.com/85126275/132106320-bb571e5c-100d-48ef-b508-3dc60c66a142.png)
+
+6. Repita el problema 5 para las formas de onda de la figura 25-51.
+
+![image](https://user-images.githubusercontent.com/85126275/132106326-91a336b8-7a61-47d8-b534-01035575ffbd.png)
+
+
+
+
+
+
 ## 4. VIDEO 
 
 ## 5. CONCLUSIONES
