@@ -138,9 +138,15 @@ b. En el problema 49 se determinaron las lecturas del wattímetro en h = 164 W y
 
 a. Calcule las corrientes de fase y las corrientes de línea.
 
+![image](https://user-images.githubusercontent.com/85126275/132101518-be91365e-2e49-4794-80a1-838e5b4b444c.png)
+
 b. Determine la potencia por fase y la potencia total PT.
 
+![image](https://user-images.githubusercontent.com/85126275/132101533-5351f965-0b2d-4b34-88bb-76c77fc66ac3.png)
+
 c. Calcule las lecturas de cada wattímetro, luego súmelas y compare con la PT que obtuvo en el inciso (b).
+
+![image](https://user-images.githubusercontent.com/85126275/132101559-c2ca0325-4a28-44b7-945a-aff292da5038.png)
 
 **24-7 Cargas desbalanceadas**
 
@@ -149,20 +155,49 @@ c. Calcule las lecturas de cada wattímetro, luego súmelas y compare con la PT 
 ![image](https://user-images.githubusercontent.com/85126275/132073194-41937231-4837-4b7f-993f-c870abdda67d.png)
 
 a. Las corrientes de fase y de línea.
-
 b. La potencia en cada fase y la potencia total.
+
+![image](https://user-images.githubusercontent.com/85126275/132102387-a42188da-1b27-487b-8137-99fa7f718049.png)
+![image](https://user-images.githubusercontent.com/85126275/132102394-9eeab0da-ca24-4631-bb66-4484e687e61a.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132102409-59cf27a9-4b06-419e-8b7b-1990ef867f6f.png)
+![image](https://user-images.githubusercontent.com/85126275/132102413-716a48e6-c779-409e-b032-d76b7d3db68d.png)
 
 54. Repita el problema 53 si Pab = 2400 W y Zbc = 50 ohm < 40°.
 
+![image](https://user-images.githubusercontent.com/85126275/132102428-5435f68c-395a-439f-acac-7b5e33cbebd0.png)
+
+a) 
+
+![image](https://user-images.githubusercontent.com/85126275/132102441-ec4cfe41-cd39-4fae-965d-3e98e7ba7a00.png)
+
+b) 
+
+![image](https://user-images.githubusercontent.com/85126275/132102833-b233de70-a59e-4ccc-be55-e090180aa0f9.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/85126275/132102845-e45c3509-452f-4889-bfed-800f76e2847d.png)
+
 55. Para la figura 24-59, calcule lo siguiente:
+
+![image](https://user-images.githubusercontent.com/85126275/132105035-588655b3-fc25-4631-bfd4-d1c32e06a4b0.png)
 
 a. Las corrientes de línea, sus magnitudes y ángulos.
 
+![image](https://user-images.githubusercontent.com/85126275/132105293-c98a2594-d072-4bf6-899a-7450bcb4d8a4.png)
+
 b. La corriente en el neutro.
+
+![image](https://user-images.githubusercontent.com/85126275/132105309-b28a66f3-e813-4d09-a97c-a2d61c0d9483.png)
 
 c. La potencia en cada fase.
 
+![image](https://user-images.githubusercontent.com/85126275/132105325-bd99d59d-4867-43c9-9491-45ae8fa34ece.png)
+
 d. Potencia total en la carga.
+
+![image](https://user-images.githubusercontent.com/85126275/132105332-61d71fed-ba79-45c2-85f7-0f74b7de4e21.png)
 
 56. Remueva el conductor del neutro del circuito de la figura 24-59 y calcule las corrientes de línea. Sugerencia: use las ecuaciones de malla.
 
