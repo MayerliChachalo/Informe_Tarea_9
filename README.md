@@ -203,12 +203,25 @@ d. Potencia total en la carga.
 
 ![image](https://user-images.githubusercontent.com/85126275/132073285-2e89e50d-5e27-4c68-bc99-24e47fb72794.png)
 
+a) 
+
+![image](https://user-images.githubusercontent.com/85126275/132106047-8a95ad4d-bf7f-4c7a-b5ae-df5b06bbfb1e.png)
+
+b )
+
+![image](https://user-images.githubusercontent.com/85126275/132106076-557ad07d-3a2c-4f99-8e0c-f81fafd455ab.png)
 
 57. A partir del problema 56, Ia = 1.94 A < -0.737°, Ib = 4.0 A < -117.7° e Ic = 3.57 A  < 91.4°. Calcule lo siguiente:
 
+![image](https://user-images.githubusercontent.com/85126275/132106087-366e9e97-a2c7-4221-9561-9209b46a62d4.png)
+
 a. Los voltajes en cada fase de la carga.
 
+![image](https://user-images.githubusercontent.com/85126275/132106096-049e7b89-da83-4c0f-878a-d852a05cbef9.png)
+
 b. El voltaje entre el neutro de la carga y el neutro del generador.
+
+![image](https://user-images.githubusercontent.com/85126275/132106111-9cdf0cb4-6733-44e9-8b06-b9af9db2c320.png)
 
 ### CAPITULO 25
 
