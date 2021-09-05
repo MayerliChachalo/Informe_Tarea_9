@@ -466,16 +466,81 @@ d. Determine la serie de Fourier de la resultante.
 
 18. La forma de onda de la figura 25-63 está compuesta por un voltaje de cd combinado con dos formas de onda fundamentales de la tabla 25-1. Determine el voltaje de cd y dibuje las dos formas de onda. Determine la serie de Fourier de la onda compuesta.
 
+![image](https://user-images.githubusercontent.com/85126275/132114273-df811b96-23a5-4115-9954-e47720ddb2d6.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114275-030bdaa0-e1e1-43c4-9d36-bea96e72c8c6.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114282-e1c5df4c-ce1e-4ee4-b16b-369b4133996e.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114288-bc55a182-e5cf-4e73-baf3-328ff40a33c6.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114299-8ea8af10-5efe-4f72-9280-b10c5e7ea790.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114315-33d708aa-8ae3-4fd7-b4db-39b62efda4a9.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114383-1a10a840-a9a6-42fa-bf07-c86500cf5763.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114460-a7d30b83-cad1-42f0-be8a-0e04a265c5d8.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114470-7ac074e0-196d-4dd3-9851-41b6058ddf8b.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114486-051c9d79-5f8f-409e-a362-9f403fb9f68f.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114495-17ca13c9-c356-4934-9864-efd9604f1abe.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114521-80626542-eeca-432e-bf35-7f53ca237616.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114542-754eca3a-9fc7-498f-8ffa-a677666f4161.png)
+
 **25-4 Espectro de frecuencias**
 
-19. Determine la potencia total disipada por un resistor de 50 , si la forma de onda de voltaje de la figura 25-52 se aplica al resistor. Considere el componente
+19. Determine la potencia total disipada por un resistor de 50 , si la forma de onda de voltaje de la figura 25-52 se aplica al resistor. Considere el componente
 de cd y las cuatro primeras armónicas diferentes de cero. Indique los niveles de potencia (en watts) en una curva de distribución de frecuencia.
+
+![image](https://user-images.githubusercontent.com/85126275/132114561-dfc124b6-8a2d-479e-9ffd-120410d0555e.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114584-f1a05e35-1f99-4d68-8701-af8be68df2ed.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114597-d3bd139a-d526-431a-a9d3-6a5ed179b68e.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114603-94d07487-a5b8-4df6-9ff1-740f5346b456.png)
 
 20. Repita el problema 19 para la forma de onda de la figura 25-53.
 
-21. Un analizador de espectro con una entrada de 50  se usa para medir los niveles de potencia en dBm de los componentes de la serie de Fourier de la forma de onda de la figura 25-54. Determine los niveles de potencia (en dBm) del componente de cd y de los primeros cuatro componentes armónicos diferentes de cero. Dibuje el despliegue que resulta cómo podría aparecer en el analizador de espectro.
+![image](https://user-images.githubusercontent.com/85126275/132114616-b829ca05-13e6-43ce-a549-1a3f174cb291.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114672-337290b8-fda4-4040-8e39-67d01509a43b.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114683-ad5bad4d-9b45-4e8e-872b-e2d3e3b88736.png)
+
+21. Un analizador de espectro con una entrada de 50  se usa para medir los niveles de potencia en dBm de los componentes de la serie de Fourier de la forma de onda de la figura 25-54. Determine los niveles de potencia (en dBm) del componente de cd y de los primeros cuatro componentes armónicos diferentes de cero. Dibuje el despliegue que resulta cómo podría aparecer en el analizador de espectro.
+
+![image](https://user-images.githubusercontent.com/85126275/132114693-aace3daa-5d64-4bb7-969f-507d62c9138b.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114728-a2c91d22-078d-47fe-9b6b-08d703456928.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114732-bdd438ee-82cb-40f6-9fd0-0a8b562c6c60.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114800-92974fea-eef1-48e5-a24d-dd5df2a8a992.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114823-7f912280-6569-4264-bea5-563cf5c9fb83.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114830-f492fdfd-d5b3-4cd8-85f0-f86eb5012dff.png)
 
 22. Repita el problema 21 si la forma de onda de la figura 25-55 se aplica a la entrada del analizador de espectro.
+
+![image](https://user-images.githubusercontent.com/85126275/132114847-d88c28ed-a4dc-450e-b8ee-baa3448e436e.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114962-16be3a29-e5ca-4051-83d0-e0326ed0b6af.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114969-2952d8f1-3736-4d73-b53b-78622b85d9d1.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132114990-641fdd9e-3178-41c3-9f87-0e6c48467287.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132115016-e1b4d8b4-4e6e-4072-9b9c-2b9c6439bdec.png)
+![image](https://user-images.githubusercontent.com/85126275/132115049-1be25fff-a313-4030-92d2-a5200045e1ad.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132115059-f4a28e56-744d-4706-82b3-1d1610bec716.png)
 
 **25-5 Respuesta del circuito a una forma de onda no sinusoidal**
 
@@ -483,15 +548,29 @@ de cd y las cuatro primeras armónicas diferentes de cero. Indique los niveles d
 
 ![image](https://user-images.githubusercontent.com/85126275/132112871-96a41720-a1f5-438d-84ed-2db4f45fa660.png)
 
+![image](https://user-images.githubusercontent.com/85126275/132115068-b368c229-9f5c-4a35-b3c3-a3873f80d2aa.png)
+
 a. Determine el componente de cd en la salida del filtro.
 
+![image](https://user-images.githubusercontent.com/85126275/132115134-c932d717-2f40-430d-9671-a519ff392815.png)
+
 b. Calcule la amplitud y el correspondiente desplazamiento de fase de los cuatro primeros componentes sinusoidales diferentes de cero en la salida.
+
+![image](https://user-images.githubusercontent.com/85126275/132115217-e50a8dae-14a8-4d2d-9c96-c11cb6655494.png)
 
 24. Repita el problema 23 para las figuras 25-66 y 25-67.
 
 ![image](https://user-images.githubusercontent.com/85126275/132112859-610e7f9d-cba7-4f5e-96ea-788361784642.png)
 
+![image](https://user-images.githubusercontent.com/85126275/132115226-90870c65-d5c9-41c9-8c0f-a53d7c3a7741.png)
 
+a)
+
+![image](https://user-images.githubusercontent.com/85126275/132115252-d823a89e-32a1-4771-becb-0f9ff25c1bc6.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/85126275/132115280-d9bce809-62b3-4491-82b0-97ac96c4fd00.png)
 
 ## 4. VIDEO 
 
