@@ -458,10 +458,38 @@ d. Determine la serie de Fourier de la resultante.
 
 ![image](https://user-images.githubusercontent.com/85126275/132111880-8d0aae8a-6f48-4fdb-b2a8-8479ddf5c37f.png)
 
+![image](https://user-images.githubusercontent.com/85126275/132112408-343ae7cd-6fe6-4d62-a604-08e498b26bd6.png)
 
+![image](https://user-images.githubusercontent.com/85126275/132112419-a1a4adeb-df75-4b8e-bf8e-e99dbeb4b847.png)
 
+![image](https://user-images.githubusercontent.com/85126275/132112521-fc51e50d-229e-4072-8c57-829ea5c0e699.png)
 
+18. La forma de onda de la figura 25-63 está compuesta por un voltaje de cd combinado con dos formas de onda fundamentales de la tabla 25-1. Determine el voltaje de cd y dibuje las dos formas de onda. Determine la serie de Fourier de la onda compuesta.
 
+**25-4 Espectro de frecuencias**
+
+19. Determine la potencia total disipada por un resistor de 50 , si la forma de onda de voltaje de la figura 25-52 se aplica al resistor. Considere el componente
+de cd y las cuatro primeras armónicas diferentes de cero. Indique los niveles de potencia (en watts) en una curva de distribución de frecuencia.
+
+20. Repita el problema 19 para la forma de onda de la figura 25-53.
+
+21. Un analizador de espectro con una entrada de 50  se usa para medir los niveles de potencia en dBm de los componentes de la serie de Fourier de la forma de onda de la figura 25-54. Determine los niveles de potencia (en dBm) del componente de cd y de los primeros cuatro componentes armónicos diferentes de cero. Dibuje el despliegue que resulta cómo podría aparecer en el analizador de espectro.
+
+22. Repita el problema 21 si la forma de onda de la figura 25-55 se aplica a la entrada del analizador de espectro.
+
+**25-5 Respuesta del circuito a una forma de onda no sinusoidal**
+
+23. El circuito de la figura 25-64 tiene la respuesta en frecuencia que se observa en la figura 25-65.
+
+![image](https://user-images.githubusercontent.com/85126275/132112871-96a41720-a1f5-438d-84ed-2db4f45fa660.png)
+
+a. Determine el componente de cd en la salida del filtro.
+
+b. Calcule la amplitud y el correspondiente desplazamiento de fase de los cuatro primeros componentes sinusoidales diferentes de cero en la salida.
+
+24. Repita el problema 23 para las figuras 25-66 y 25-67.
+
+![image](https://user-images.githubusercontent.com/85126275/132112859-610e7f9d-cba7-4f5e-96ea-788361784642.png)
 
 
 
