@@ -275,9 +275,190 @@ b. Si esta forma de onda se aplica a un resistor de 50 ohm , ¿cuánta potencia 
 
 ![image](https://user-images.githubusercontent.com/85126275/132106320-bb571e5c-100d-48ef-b508-3dc60c66a142.png)
 
+
 6. Repita el problema 5 para las formas de onda de la figura 25-51.
 
 ![image](https://user-images.githubusercontent.com/85126275/132106326-91a336b8-7a61-47d8-b534-01035575ffbd.png)
+
+**25-3 Serie de Fourier de formas de onda comunes
+
+7. Use la tabla 25-1 para determinar la serie de Fourier para la forma de onda de la figura 25-52.
+
+![image](https://user-images.githubusercontent.com/85126275/132111076-7a3b8ed1-865e-4502-9513-cf19d1563407.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111066-201cb437-2777-4838-83a4-548d4aa6030b.png)
+
+8. Repita el problema 7 para la forma de onda de la figura 25-53.
+
+![image](https://user-images.githubusercontent.com/85126275/132111081-97389930-e6c9-4e66-8862-a7404db71bf2.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111085-7c130cd4-31e0-4877-8f1d-fa436e8dfbe3.png)
+
+9. Repita el problema 7 para la forma de onda de la figura 25-54.
+
+![image](https://user-images.githubusercontent.com/85126275/132111097-20dac4ab-9265-4cc9-91c1-5f55e83db42b.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111109-17aa500b-4a7b-42d8-9fef-cbbc8623cb52.png)
+
+10. Repita el problema 7 para la forma de onda de la figura 25-55.
+
+![image](https://user-images.githubusercontent.com/85126275/132111103-e89a6b15-d808-43cd-bbc7-87d22167af34.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111111-a5398aa8-744d-4e3a-b814-1773cf533f3e.png)
+
+11. Escriba la expresión que incluya los primeros cuatro términos sinusoidales de la serie de Fourier de la forma de onda de la figura 25-56.
+
+![image](https://user-images.githubusercontent.com/85126275/132111106-e582f54b-2047-4d12-889f-4663466e2faa.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111116-d2eee7d6-d555-4d2d-8a27-0d7b78b31ccb.png)
+
+12. Repita el problema 11 para la forma de onda de la figura 25-57.
+
+![image](https://user-images.githubusercontent.com/85126275/132111120-ebdfdebe-3354-44d7-947a-4868946d2429.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111125-76c96b54-2b68-441a-b866-026808f05549.png)
+
+13. Una forma de onda compuesta está formada por las dos ondas periódicas que se muestran en la figura 25-58.
+
+![image](https://user-images.githubusercontent.com/85126275/132111130-e6c73464-06e1-4af2-bf80-6c5b5dd4ac4c.png)
+
+a. Dibuje la forma de onda resultante.
+
+![image](https://user-images.githubusercontent.com/85126275/132111136-dde663c8-cd19-415f-a922-fdfe708967f9.png)
+
+b. Escriba la serie de Fourier de las formas de onda dadas.
+
+![image](https://user-images.githubusercontent.com/85126275/132111142-7d4f6549-5750-4294-9c41-ac8982f3b055.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111155-b7d0dcad-9540-488b-a1f4-0a49738b7e43.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111158-a9d1a05d-d1ba-4454-a102-ba57d4e7433f.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111165-0aa0c137-70b6-41dc-a98c-59038bf6f6d8.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111170-fa481235-2576-476f-8bc4-dc4f8a04bac5.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111172-d0a04302-fa68-4c94-b1cd-b22040534e8a.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111175-29e78576-92ec-4bb6-ba66-25f17d68d60c.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111177-8015319f-3fec-42f6-99d4-aae15bb857c6.png)
+
+c. Determine la serie de Fourier de la que resulte.
+
+![image](https://user-images.githubusercontent.com/85126275/132111183-93d0e5f8-e0f7-4a7c-98d1-20a171b37f09.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111185-d9b5b77c-5c28-4528-895d-296237a8a97f.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111191-f8a5bd84-6e18-46f8-85fd-054f0f6322c8.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111196-50c2cfbe-ae91-41b0-b6a8-0eb477ef9759.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111200-0a4a81c5-3595-4843-bc00-63bfaa450dd4.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111203-54ee9e1d-f1fa-43b2-8c02-7930dad1e994.png)
+
+14. Repita el problema 13 para las formas de onda periódicas que se muestran en la figura 25-59.
+
+![image](https://user-images.githubusercontent.com/85126275/132111209-9d618404-4a2c-4b1d-80e3-4e22a49f3553.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/85126275/132111214-449462c4-1782-4d98-8a54-2487821f271c.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/85126275/132111220-4d24c993-30b2-4910-8021-27506c1ced48.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111224-81b02359-fa13-4c51-9c3a-99c326063aa4.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111225-baeec9f8-1aac-45b8-ad0a-10a55e958f87.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111228-943e726e-f95b-41e7-af0b-597b44449661.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111232-7951d832-bbd1-4aee-80c8-bb7b5544bfc0.png)
+
+
+![image](https://user-images.githubusercontent.com/85126275/132111240-b87892ea-bbe0-4ca8-9637-8b41b362ed9c.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111246-d8aa623f-3545-445d-8442-9179560faa69.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111253-5e07ccc5-1b49-4c1f-be44-7f0f0ec4ef82.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111264-cc6a608b-d560-4f48-9da8-7bcc99e4bba3.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111270-e58236d7-9c70-42e5-955c-7424546b131a.png)
+
+15. Una forma de onda compuesta está conformada por las dos ondas periódicas que se ilustran en la figura 25-60.
+
+![image](https://user-images.githubusercontent.com/85126275/132111283-356bfdcd-e1c0-42ce-a492-eebad42727f4.png)
+
+a. Dibuje la forma de onda resultante.
+
+![image](https://user-images.githubusercontent.com/85126275/132111453-ed7e30d4-e7f7-4f72-8997-e26c16713944.png)
+
+b. Encuentre el valor de cd de la resultante.
+
+![image](https://user-images.githubusercontent.com/85126275/132111488-0eb93d83-cab7-4637-a602-39cc58dfb44b.png)
+
+c. Escriba la serie de Fourier de las formas de ondas dadas.
+
+![image](https://user-images.githubusercontent.com/85126275/132111494-c2e47a40-dedb-4e82-aff7-615145c062de.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111503-d8532133-d08f-4bb1-96cd-a35ac8c03b7c.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111515-644543d0-1aec-449d-ac17-bac378707038.png)
+
+
+![image](https://user-images.githubusercontent.com/85126275/132111525-cdd92709-6ddf-4099-b8c8-943ab079e16e.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111531-be7d1121-1748-4cde-b6e8-b2d52fa05998.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111535-bfac0aa4-f3d9-41d6-8290-e6232f58da2a.png)
+
+d. Determine la serie de Fourier de la resultante.
+
+![image](https://user-images.githubusercontent.com/85126275/132111542-aaffe9b8-c687-47d5-9d70-b1757c592910.png)
+
+16. Repita el problema 15 para las formas de onda que se muestran en la figura 25-61.
+
+![image](https://user-images.githubusercontent.com/85126275/132111568-70ff14f1-d66c-4a07-b103-40a132dd3ae9.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111610-1df58daf-c206-4169-80ac-f746f5f3fe12.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111749-d306fc02-49d4-4274-8aa5-06b4b0451e5d.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111761-b7c30ce1-bf6d-48e0-8256-0311b5788d6f.png)
+
+
+![image](https://user-images.githubusercontent.com/85126275/132111775-593d539a-5906-4004-ab8a-128d7384604c.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111786-e1fc7d2d-eecc-49f8-a646-dc5d2cfbb943.png)
+
+
+![image](https://user-images.githubusercontent.com/85126275/132111788-0b970829-082a-4d0f-93fa-d216acab3069.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111791-93842776-fbc2-4943-b772-21404d355314.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111802-e4fef53b-1220-45b6-a64c-d2fd9dd5cbca.png)
+
+17. La forma de onda de la figura 25-62 está compuesta por dos formas de onda fundamentales de la Tabla 25-1. Dibuje las dos formas de onda y determine la serie de Fourier de la onda compuesta.
+
+![image](https://user-images.githubusercontent.com/85126275/132111571-bdfcb0ea-e6a8-4975-ba63-ac1bf5563a35.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111831-25e28f81-db13-4def-bf6e-3bff0c4cb909.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111843-7ae9a011-3f81-4dcc-b2c3-1ccfcfd9ea9e.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111847-fbcd198d-0186-4f87-8710-1c8aeede2468.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111853-3cb8a2a7-2eb1-4411-9fa4-7ca9eec9f216.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111863-64a2776d-459d-4791-9990-978f3759dec3.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132111880-8d0aae8a-6f48-4fdb-b2a8-8479ddf5c37f.png)
+
+
 
 
 
