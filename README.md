@@ -16,7 +16,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-## CAPITULO 23
+##  CAPITULO 23
 
 22. Para la figura 23-76, hay 100 vueltas entre las terminales 1 y 2 y 120 entre las terminales 2 y 3. ¿Qué voltaje en la terminal 1 se produce a 120 V de salida? ¿Y en la terminal 3?
 
@@ -213,7 +213,7 @@ b. Determine Ig.
 
 ![image](https://user-images.githubusercontent.com/85126275/132513713-e0954a4f-17b4-47d8-8421-17da92d612dd.png)
 
-### CAPITULO 24
+##  CAPITULO 24
 
 41. Para la figura 24-19, si Vab = 480 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
 
