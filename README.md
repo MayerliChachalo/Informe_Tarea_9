@@ -20,31 +20,51 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
 22. Para la figura 23-76, hay 100 vueltas entre las terminales 1 y 2 y 120 entre las terminales 2 y 3. ¿Qué voltaje en la terminal 1 se produce a 120 V de salida? ¿Y en la terminal 3?
 
+![image](https://user-images.githubusercontent.com/85126275/132430162-a3f236b7-7010-4946-8923-dee7fd4c92db.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132507190-9dff0830-adac-4d76-a7e8-dd9fa7fefc4f.png)
+
 23. Para la figura 23-30(a), a2 = 2 y a3 = 5, Z2 = 20 = ∠ 50°, Z3 = (12 + j4) ohm y Eg = 120 V ∠ 0°. Encuentre cada corriente de carga y la corriente del generador.
 
-24. Se requiere conectar un transformador de 5 kVA y 120/240 V como un autotransformador
+![image](https://user-images.githubusercontent.com/85126275/132507738-febb6e25-cedc-413a-800e-a6b0d1284971.png)
 
-a una fuente de 120 V para suministrar 360 V a la carga.
+24. Se requiere conectar un transformador de 5 kVA y 120/240 V como un autotransformador a una fuente de 120 V para suministrar 360 V a la carga.
 
 a. Dibuje el circuito.
 
+![image](https://user-images.githubusercontent.com/85126275/132507811-41da4bb3-d437-4b48-bf8a-d58df08f8765.png)
+
 b. ¿Cuál es la corriente máxima que la carga puede demandar?
+
+![image](https://user-images.githubusercontent.com/85126275/132508069-51418ae5-9f1f-4c58-94b5-6b85298213b6.png)
 
 c. ¿Cuál es la máxima carga en kVA que puede ser suministrada?
 
+![image](https://user-images.githubusercontent.com/85126275/132508143-ca4a737f-e2f4-49bf-80f6-191c1e940a28.png)
+
 d. ¿Cuánta corriente demanda la fuente?
+
+![image](https://user-images.githubusercontent.com/85126275/132508624-e1f600d0-54a0-4ec8-85ba-c0249c91dc5e.png)
 
 **23-6 Transformadores de núcleo de hierro prácticos**
 
 25. Para la figura 23-77, Eg = 1220 V ∠ 0°.
 
+![image](https://user-images.githubusercontent.com/85126275/132429228-d1f9e990-3759-46ea-9581-ec3dfe383a73.png)
+
 a. Dibuje el circuito equivalente.
+
+![image](https://user-images.githubusercontent.com/85126275/132508797-aeaa2eaf-96c0-4f14-8da3-a1261b5c658e.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132508839-c54b8a29-ed06-4809-bfb5-bcf487f2c578.png)
 
 b. Determine Ig, IL, y VL.
 
-![image](https://user-images.githubusercontent.com/85126275/132429228-d1f9e990-3759-46ea-9581-ec3dfe383a73.png)
+![image](https://user-images.githubusercontent.com/85126275/132509002-8aeafe82-e119-4bc6-b7e9-ad40d4fd8349.png)
 
 27. Un transformador que entrega Psal = 48 kW tiene un pérdida en el núcleo de 280 W y una pérdida en el cobre de 450 W. ¿Cuál es su eficiencia a esta carga?
+
+![image](https://user-images.githubusercontent.com/85126275/132509641-32a7276a-6e17-4dcc-8ff1-bee523888ef7.png)
 
 **23-7 Pruebas de los transformadores**
 
@@ -52,7 +72,11 @@ b. Determine Ig, IL, y VL.
 
 a. ¿Cuál es la eficiencia del transformador cuando se entrega la salida de 5 kVA completa especificada a un Fp unitario?
 
+![image](https://user-images.githubusercontent.com/85126275/132509701-f05d020a-72d4-4c85-8e26-085b06be68fe.png)
+
 b. ¿Cuál es su eficiencia cuando se suministra un cuarto de los kVA especificados a un Fp de 0.8?
+
+![image](https://user-images.githubusercontent.com/85126275/132509877-f98a6068-4edc-48dd-b992-c7a1cf3b2d95.png)
 
 **23-9 Circuitos débilmente acoplados**
 
@@ -62,53 +86,132 @@ b. ¿Cuál es su eficiencia cuando se suministra un cuarto de los kVA especifica
 
 ![image](https://user-images.githubusercontent.com/85126275/132429455-704aa597-c546-4df2-acdf-758d51249a31.png)
 
+a)
+
+![image](https://user-images.githubusercontent.com/85126275/132510059-54046197-ad93-4ac2-9815-f917accbf568.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132510419-cf01f8c7-8869-4c5b-b552-8588d9673158.png)
+
+
+b)
+
+![image](https://user-images.githubusercontent.com/85126275/132510291-3d3076b5-70a4-4ae5-9274-14a7d05bc048.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132510484-3f047dd5-1cc5-4946-8818-2a634fa8bc77.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/85126275/132510346-c0bfe995-2a45-4284-996f-8d8a55e0bbeb.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132510516-9fccea6c-1fb7-418e-9352-c14ffc5d1a94.png)
+
+30. Para un conjunto de bobinas, L1 = 250 mH, L2 = 0.4 H, y k = 0.85. ¿qué valor tiene M?
+
+![image](https://user-images.githubusercontent.com/85126275/132510761-8ea211c2-5935-47a1-b9d6-ff83c4c91fd2.png)
+
 31. Para un conjunto de bobinas, L1 = 250 mH, L2 = 0.4 H, y k = 0.85. ¿qué valor tiene M?
+
+![image](https://user-images.githubusercontent.com/85126275/132510806-23d16a77-ba5a-4745-8fe0-7da3caca2aaf.png)
 
 32. Para la figura 23-52(a), L1 = 25 mH, L2 = 4 mH, y M = 0.8 mH. Si i1 cambia a una tasa de 1200 A/s, ¿cuáles son los voltajes inducidos en el primario y en el secundario?
 
-33. Todo igual que en el problema 32, excepto que i1 = 10 e ^-500t A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calcúlelos a t  1 ms.
+![image](https://user-images.githubusercontent.com/85126275/132510889-8b88e306-fcb1-4c7d-b32b-c741edac5163.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132510952-0f3390d4-3941-49c2-bfc2-40b68164337d.png)
+
+33. Todo igual que en el problema 32, excepto que i1 = 10 e ^-500t A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calcúlelos a t = 1 ms.
+
+![image](https://user-images.githubusercontent.com/85126275/132511032-205b0d38-c6fe-4ab6-95e3-247561332dd5.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132511165-d2ba3d69-8035-4e80-9eab-c70ea48c00bd.png)
 
 34. Para cada circuito de la figura 23-79, determine LT.
 
 ![image](https://user-images.githubusercontent.com/85126275/132429627-0ce6c870-afa3-4fc4-8bef-0d18f5415c2f.png)
 
+a)
+
+![image](https://user-images.githubusercontent.com/85126275/132511254-a54b3cc9-7bef-465c-835c-42cf810c19b0.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132511292-55d00623-e819-426f-8acc-be2b3449e3a0.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/85126275/132511368-3b9e75db-adda-4e85-9e79-e9875b59cfef.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132511458-d47377f4-65d7-4bab-ab19-fd571862024f.png)
+
 35. Para la figura 23-80, determine LT.
 
 ![image](https://user-images.githubusercontent.com/85126275/132429661-e36e0d48-57c2-4651-81af-f479bc54beaa.png)
 
+![image](https://user-images.githubusercontent.com/85126275/132511949-0a9d5daf-dc13-4e7f-8c82-418c6874cde1.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132511997-218aa5f4-c995-47a7-aee8-ac7b0591b9f4.png)
 
 36. Para el circuito de la figura 23-81, determine I.
 
 ![image](https://user-images.githubusercontent.com/85126275/132429690-2a7cc5da-c368-4032-8663-e0d0ce69b055.png)
 
+![image](https://user-images.githubusercontent.com/85126275/132512179-aaca085b-d19a-4801-8d9f-eaa9ae9205a4.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132512325-d3d37262-7a8c-421e-95cb-c55b33f18d21.png)
+
 37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f = 60 Hz, ¿cuál es la corriente en la fuente?
 
 ![image](https://user-images.githubusercontent.com/85126275/132429753-38b2ba8c-4d85-4d39-99f9-d1a1be3924f9.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132512375-20072a8f-ea16-4252-b8b7-1420ebeb16f3.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132512559-c6c38a0f-951f-4136-8f27-c2e7bbfba027.png)
 
 **23-10 Circuitos acoplados magnéticamente con excitación sinusoidal**
 
 38. Para la figura 23-60, R1 = 10 ohm, R2 = 30 ohm, L1 = 100 mH, L2 = 200 mH, M = 25 mH, y f = 31.83 Hz. Escriba las ecuaciones de malla.
 
+![image](https://user-images.githubusercontent.com/85126275/132512634-fef556d2-2c2a-4944-903e-ab54642bd245.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132512860-5ae2f14c-4a6a-449a-b052-9f1bc121994a.png)
 
 39. Para el circuito de la figura 23-83, escriba las ecuaciones de malla.
 
 ![image](https://user-images.githubusercontent.com/85126275/132429855-9b26a7f1-3a60-4094-a524-56eb94342f07.png)
 
+![image](https://user-images.githubusercontent.com/85126275/132512928-e1ec762a-8038-49b4-8baf-f1a86f0dfc46.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132513001-efe40053-19d8-4231-aaba-b73eb9716098.png)
+
 40. Escriba las ecuaciones de malla para el circuito de la figura 23-84.
 
 ![image](https://user-images.githubusercontent.com/85126275/132429879-0f1d31ad-f1cb-4914-a337-05cfb1be750b.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132513183-36b05ac5-fabb-48b1-aa2a-9931bf79e61b.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132513293-5ec7a6bd-d950-437d-bf0a-73f28aab0ba4.png)
 
 41. Escriba las ecuaciones de malla para el circuito de la figura 23-85. (Este es un problema desafiante.)
 
 ![image](https://user-images.githubusercontent.com/85126275/132429901-f174c916-c4d3-4b2f-a5e0-27e88b082587.png)
 
+![image](https://user-images.githubusercontent.com/85126275/132513382-bbecefbf-d4c6-4278-ba81-ef3e97f0238a.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132513471-e63d49d3-cd92-475d-ac82-db6b6c679eb1.png)
+
 **23-11 Impedancia acoplada**
 
 42. Para el circuito de la figura 23-86,
 
+![image](https://user-images.githubusercontent.com/85126275/132430033-5888d5a9-338e-4d61-a6eb-a196e1db4880.png)
+
+![image](https://user-images.githubusercontent.com/85126275/132513606-44a6ebc9-d104-4a25-a8b5-5c58982890c4.png)
+
 a. Determine Zent.
 
+![image](https://user-images.githubusercontent.com/85126275/132513875-8c7f21e8-ac4a-4d89-814e-9a9d05c15eaa.png)
+
 b. Determine Ig.
+
+![image](https://user-images.githubusercontent.com/85126275/132513713-e0954a4f-17b4-47d8-8421-17da92d612dd.png)
 
 ### CAPITULO 24
 
