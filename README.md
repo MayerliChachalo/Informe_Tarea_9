@@ -56,29 +56,29 @@ b) ![image](https://user-images.githubusercontent.com/75383758/132766306-aa31f5d
         
         b. Si es e_s = 100 sen qt, ¿qué valor tiene ep cuando se devana como en la ﬁgura 23-7(a)?
 
-        ![image](https://user-images.githubusercontent.com/75383758/132768677-6865a70c-42eb-47c6-a1f0-63371d72aeb4.png)
+![image](https://user-images.githubusercontent.com/75383758/132768677-6865a70c-42eb-47c6-a1f0-63371d72aeb4.png)
         
-        ![image](https://user-images.githubusercontent.com/75383758/132768702-90cbc598-c459-4722-937f-5e7ec2db86d0.png)
+![image](https://user-images.githubusercontent.com/75383758/132768702-90cbc598-c459-4722-937f-5e7ec2db86d0.png)
 
         c. Si Es = 24 volts, ¿qué valor tiene Ep?
         
-        ![image](https://user-images.githubusercontent.com/75383758/132768815-39d417d6-2f81-4cc1-ae70-8adc9b68f77c.png)
+![image](https://user-images.githubusercontent.com/75383758/132768815-39d417d6-2f81-4cc1-ae70-8adc9b68f77c.png)
 
         d. Si Ep = 24 V∠0°, ¿qué valor tiene Es cuando se devana como en la ﬁgura 23-7(a)?
 
-        ![image](https://user-images.githubusercontent.com/75383758/132768899-7ceabace-c29e-46ac-b712-b9de0dd9bc20.png)
+![image](https://user-images.githubusercontent.com/75383758/132768899-7ceabace-c29e-46ac-b712-b9de0dd9bc20.png)
 
         e. Si Ep = 800 V∠0°, ¿qué valor tiene Es cuando se devana como en la ﬁgura 23-7(b)?
         
-        ![image](https://user-images.githubusercontent.com/75383758/132768945-1f32f872-19ba-45ef-8c20-365dc0b29975.png)
+![image](https://user-images.githubusercontent.com/75383758/132768945-1f32f872-19ba-45ef-8c20-365dc0b29975.png)
 
-        ![image](https://user-images.githubusercontent.com/75383758/132768949-d48629ef-d8aa-4754-921d-2a46c73ec06f.png)
+![image](https://user-images.githubusercontent.com/75383758/132768949-d48629ef-d8aa-4754-921d-2a46c73ec06f.png)
 
 4. Un transformador reductor de voltaje 3:1 tiene una corriente en el secundario de 6 A. ¿Cuál es la corriente en el primario?
 
         Transformador con voltaje reducido de a = 3
         
-        ![image](https://user-images.githubusercontent.com/75383758/132769050-3c6876d2-a9a1-47ec-8283-d2e326bb61ee.png)
+![image](https://user-images.githubusercontent.com/75383758/132769050-3c6876d2-a9a1-47ec-8283-d2e326bb61ee.png)
 
 5. Para la ﬁgura 23-72, determine las expresiones para v1, v2 y v3.
 
@@ -86,9 +86,9 @@ b) ![image](https://user-images.githubusercontent.com/75383758/132766306-aa31f5d
 
         De la gráfica obtenemos: e_g = 24*sen(ωt) V
         
-        ![image](https://user-images.githubusercontent.com/75383758/132769295-cb23fe58-0a7f-4244-90fb-342fc74f164e.png)
+![image](https://user-images.githubusercontent.com/75383758/132769295-cb23fe58-0a7f-4244-90fb-342fc74f164e.png)
 
-        ![image](https://user-images.githubusercontent.com/75383758/132769319-ddad3374-e4f5-4f27-a650-ddd2de644d27.png)
+![image](https://user-images.githubusercontent.com/75383758/132769319-ddad3374-e4f5-4f27-a650-ddd2de644d27.png)
 
 6. Si, para la ﬁgura 23-73, Eg = 240 V∠0°, a = 2, y ZL = 8 Ω - j6 Ω determine lo siguiente:
 
@@ -98,17 +98,17 @@ b) ![image](https://user-images.githubusercontent.com/75383758/132766306-aa31f5d
         
         Con Es = 240 V∠0°
         
-        ![image](https://user-images.githubusercontent.com/75383758/132769908-9f6910fd-4df9-4313-ab23-3f9a5974d075.png)
+![image](https://user-images.githubusercontent.com/75383758/132769908-9f6910fd-4df9-4313-ab23-3f9a5974d075.png)
         
-        ![image](https://user-images.githubusercontent.com/75383758/132770008-f4e94ea3-0a9b-4f5b-8854-ed047af2ca14.png)
+![image](https://user-images.githubusercontent.com/75383758/132770008-f4e94ea3-0a9b-4f5b-8854-ed047af2ca14.png)
 
         b. IL
         
-        ![image](https://user-images.githubusercontent.com/75383758/132770056-31cc2466-8ca1-4836-8ef8-ccf87db4104a.png)
+![image](https://user-images.githubusercontent.com/75383758/132770056-31cc2466-8ca1-4836-8ef8-ccf87db4104a.png)
 
         c. Ig
         
-        ![image](https://user-images.githubusercontent.com/75383758/132770124-d27170bf-283a-4931-82af-3be276074cdc.png)
+![image](https://user-images.githubusercontent.com/75383758/132770124-d27170bf-283a-4931-82af-3be276074cdc.png)
 
 7. Si, para la ﬁgura 23-73, Eg = 240 V∠0°, a = 0.5, e Ig = 2 A∠20°, determine lo siguiente:
 
@@ -116,27 +116,27 @@ b) ![image](https://user-images.githubusercontent.com/75383758/132766306-aa31f5d
         
         Con Eg = 240 V∠0°
         
-        ![image](https://user-images.githubusercontent.com/75383758/132770283-54d154bf-123b-4e23-9d8e-e99b098c22c3.png)
+![image](https://user-images.githubusercontent.com/75383758/132770283-54d154bf-123b-4e23-9d8e-e99b098c22c3.png)
 
-        ![image](https://user-images.githubusercontent.com/75383758/132770299-d5ee6c46-1a17-4f14-8cd8-1a062f510368.png)
+![image](https://user-images.githubusercontent.com/75383758/132770299-d5ee6c46-1a17-4f14-8cd8-1a062f510368.png)
 
         b. VL
         
-        ![image](https://user-images.githubusercontent.com/75383758/132770341-a4a6db37-f718-4f73-af0c-f4a5fd8798ae.png)
+![image](https://user-images.githubusercontent.com/75383758/132770341-a4a6db37-f718-4f73-af0c-f4a5fd8798ae.png)
 
         c. ZL
         
-        ![image](https://user-images.githubusercontent.com/75383758/132770380-4b2c8106-4f70-4cec-a7b5-20cf23d17b44.png)
+![image](https://user-images.githubusercontent.com/75383758/132770380-4b2c8106-4f70-4cec-a7b5-20cf23d17b44.png)
 
 8. Si, para la ﬁgura 23-73, a = 2, VL = 40 V∠0°,e Ig = 0.5 A∠10°, determine ZL.
 
         Dado: a = 2, VL = 40 V∠0°,e Ig = 0.5 A∠10°
         
-        ![image](https://user-images.githubusercontent.com/75383758/132770487-c2a175eb-2fd8-40f6-be9a-18c48a9a2083.png)
+![image](https://user-images.githubusercontent.com/75383758/132770487-c2a175eb-2fd8-40f6-be9a-18c48a9a2083.png)
 
-        ![image](https://user-images.githubusercontent.com/75383758/132770550-a32932c6-92c9-450f-bed0-df345eb3a76f.png)
+![image](https://user-images.githubusercontent.com/75383758/132770550-a32932c6-92c9-450f-bed0-df345eb3a76f.png)
 
-        ![image](https://user-images.githubusercontent.com/75383758/132770565-7b0c844e-a2f7-45af-a76f-3dc0e766a4b1.png)
+![image](https://user-images.githubusercontent.com/75383758/132770565-7b0c844e-a2f7-45af-a76f-3dc0e766a4b1.png)
 
 9. Si, para la ﬁgura 23-73, a = 4, Ig = 4 A∠30°, y ZL = 6 Ω - j8 Ω, determine lo siguiente:
 
@@ -146,31 +146,31 @@ b) ![image](https://user-images.githubusercontent.com/75383758/132766306-aa31f5d
         
         Dados: a = 4, Ig = 4 A∠30°, y ZL = 6 Ω - j8 Ω
         
-        ![image](https://user-images.githubusercontent.com/75383758/132770707-6afbe546-d2f8-4712-9291-afdeffa69ad5.png)
+![image](https://user-images.githubusercontent.com/75383758/132770707-6afbe546-d2f8-4712-9291-afdeffa69ad5.png)
 
-        ![image](https://user-images.githubusercontent.com/75383758/132770718-2e1d7b46-735b-4412-aefc-9c4b1b3c5959.png)
+![image](https://user-images.githubusercontent.com/75383758/132770718-2e1d7b46-735b-4412-aefc-9c4b1b3c5959.png)
 
         b. Eg
         
-        ![image](https://user-images.githubusercontent.com/75383758/132770730-dfa528de-5429-4cd3-84d3-5d8982c471a0.png)
+![image](https://user-images.githubusercontent.com/75383758/132770730-dfa528de-5429-4cd3-84d3-5d8982c471a0.png)
 
 10. Si, para el circuito de la ﬁgura 23-73, a = 3, IL = 4 A∠25°, y ZL = 10 Ω∠-5° , determine lo siguiente:
 
         a. La corriente y voltaje del generador.
 
-        ![image](https://user-images.githubusercontent.com/75383758/132770904-ef96f69f-fcc6-447d-a321-b4e8dc2dd604.png)
+![image](https://user-images.githubusercontent.com/75383758/132770904-ef96f69f-fcc6-447d-a321-b4e8dc2dd604.png)
 
-        ![image](https://user-images.githubusercontent.com/75383758/132770922-153674eb-27e6-4e2b-9dae-331977f79081.png)
+![image](https://user-images.githubusercontent.com/75383758/132770922-153674eb-27e6-4e2b-9dae-331977f79081.png)
 
-        ![image](https://user-images.githubusercontent.com/75383758/132770941-cbfe2d00-da02-4b77-9067-d78d9d38467a.png)
+![image](https://user-images.githubusercontent.com/75383758/132770941-cbfe2d00-da02-4b77-9067-d78d9d38467a.png)
 
         b. La potencia a la carga
         
-        ![image](https://user-images.githubusercontent.com/75383758/132770984-1c513e4b-7551-4f30-bcd5-a38b88029779.png)
+![image](https://user-images.githubusercontent.com/75383758/132770984-1c513e4b-7551-4f30-bcd5-a38b88029779.png)
 
         c. La potencia de salida del generador
         
-        ![image](https://user-images.githubusercontent.com/75383758/132771028-9a7c3802-bf73-40e6-bd9c-3af55efaed83.png)
+![image](https://user-images.githubusercontent.com/75383758/132771028-9a7c3802-bf73-40e6-bd9c-3af55efaed83.png)
 
         d. ¿Es Psal = Pent?
         
