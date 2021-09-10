@@ -12,7 +12,11 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
 ### CAPITULO 23
 
+![Blank diagram (1)](https://user-images.githubusercontent.com/75383758/132782050-8d25878d-9de5-42e4-ae4d-7a6e712ae2be.png)
+
 ### CAPITULO 24
+
+![Blank diagram](https://user-images.githubusercontent.com/75383758/132782086-057d90e8-6148-4dd5-8060-ee5b1dcdfa2a.png)
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
