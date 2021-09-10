@@ -818,3 +818,4 @@ b. El voltaje entre el neutro de la carga y el neutro del generador.
 
 Transformadores y circuitos acoplados - Blog TECH Ecuador University. Techtitute.com. (2021). Retrieved 10 September 2021, from https://www.techtitute.com/ec/informatica/blog/transformadores-circuitos-acoplados.
 
+Sistema trifásico - Wikipedia, la enciclopedia libre. Es.wikipedia.org. (2021). Retrieved 10 September 2021, from https://es.wikipedia.org/wiki/Sistema_trifásico.
