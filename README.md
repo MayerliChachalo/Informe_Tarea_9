@@ -816,3 +816,5 @@ b. El voltaje entre el neutro de la carga y el neutro del generador.
 
 ## 6. BIBLIOGRAFÍA
 
+Transformadores y circuitos acoplados - Blog TECH Ecuador University. Techtitute.com. (2021). Retrieved 10 September 2021, from https://www.techtitute.com/ec/informatica/blog/transformadores-circuitos-acoplados.
+
