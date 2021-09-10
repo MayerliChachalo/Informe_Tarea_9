@@ -175,6 +175,238 @@ b) ![image](https://user-images.githubusercontent.com/75383758/132766306-aa31f5d
         d. ¿Es Psal = Pent?
         
         Dado que el transformador no tiene pérdida Psal = Pent = 159.39 W
+        
+23-3 Impedancia reﬂejada
+
+11. Para cada circuito de la ﬁgura 23-74, determine Zp.
+
+![image](https://user-images.githubusercontent.com/75383758/132775139-3b960dc9-2b8b-4472-a102-6bc488f023b4.png)
+
+a) ![image](https://user-images.githubusercontent.com/75383758/132775171-fbdf11d1-db4a-4d2f-8fee-8e804b1c1645.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132775182-ceb25859-dc7b-4c4b-9755-8ce94675e653.png)
+
+b) ![image](https://user-images.githubusercontent.com/75383758/132775202-7c7619d4-f369-4dd0-9264-731d4f768ff4.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132775212-69c10ff8-d9ef-4e73-9dfa-d0ade5e50d08.png)
+
+12. Para cada circuito de la ﬁgura 23-74, si se aplica Eg = 120 V∠40° determine lo siguiente, usando la impedancia reﬂejada del problema 11.
+
+        Figura a:
+
+        a. Ig
+        
+![image](https://user-images.githubusercontent.com/75383758/132775363-6efdab9a-7ddb-44f8-9686-bc38ddc81b20.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132775381-3aa574d3-3fe4-4c35-a7d7-1d73922f227d.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132775409-49e0e910-ce27-444e-aaec-aca1c1df9c40.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132775428-e3277e03-bfa2-406f-b345-a2e7b7764706.png)
+
+        b. IL
+        
+![image](https://user-images.githubusercontent.com/75383758/132775549-773aaddf-06ac-4a66-ba99-e39c7033774f.png)
+
+        c. VL
+        
+![image](https://user-images.githubusercontent.com/75383758/132775643-0b58d05e-73c3-47fe-9432-c4bd05aed1d5.png)
+
+        Figura b:
+        
+![image](https://user-images.githubusercontent.com/75383758/132775697-e589c2df-6b5b-4323-9b25-1c86fa0a3ced.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132775719-e9758cb1-4c10-419d-992b-f825174b4b24.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132775749-f86ba486-d40d-4286-a889-451330438410.png)
+
+        a. Ig
+        
+![image](https://user-images.githubusercontent.com/75383758/132775776-45884193-86f6-4344-a9c6-68a434a3e8f2.png)
+
+        b. IL
+        
+![image](https://user-images.githubusercontent.com/75383758/132775802-97b136f0-3c99-4a8d-ba7b-c9ff83c89a98.png)
+
+        c. VL
+        
+![image](https://user-images.githubusercontent.com/75383758/132775820-f762c9b6-0850-4367-8066-93eb78add761.png)
+
+13. Para la ﬁgura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Zp = (62.5 - j125) Ω?
+
+![image](https://user-images.githubusercontent.com/75383758/132775915-3ffa058e-ee20-4f44-acde-74954a6dde5f.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132775929-cf795ba5-a9f6-429b-bcd8-21c7c8831b09.png)
+
+14. Para la ﬁgura 23-74(b), ¿qué relación de vueltas se requiere para hacer que Zp = 84.9∠58.0° Ω?
+
+![image](https://user-images.githubusercontent.com/75383758/132776058-4fdddefe-e0d4-4e53-a9ce-41fb2c5ca9cc.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132776078-fd872cc8-a4be-43c8-8af0-f3709c3315db.png)
+
+15. Para cada circuito de la ﬁgura 23-75, determine ZT.
+
+![image](https://user-images.githubusercontent.com/75383758/132776141-2dcc29da-a493-4f4a-ab82-bbe5e83c4baf.png)
+
+a) ![image](https://user-images.githubusercontent.com/75383758/132776175-ee303811-99f2-44eb-b8cc-833842001a4b.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132776188-751dbd55-82f2-4e3e-ba9b-c3d5d4299761.png)
+
+b) ![image](https://user-images.githubusercontent.com/75383758/132776206-1ba68abb-f320-4882-8454-c2409040ac11.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132776220-39935920-71ee-4829-bcba-fafd11056d93.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132776237-2735c9e0-1b91-43ee-bd58-e0ae59883504.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132776246-a47ca354-8ad9-4a05-b295-27d8a6f19fab.png)
+
+16. Para cada circuito de la ﬁgura 23-75, si se aplica un generador con Eg = 120 V∠-40°, determine lo siguiente:
+
+![image](https://user-images.githubusercontent.com/75383758/132776315-8a17f508-5a65-4f73-894a-b5aa73e3c76e.png)
+
+        Figura a:
+        
+![image](https://user-images.githubusercontent.com/75383758/132776368-61904ec3-46b8-42e2-8025-ef95ecebb75a.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132776387-169bd226-ca37-4311-9a8c-f6310d385d5e.png)
+        
+![image](https://user-images.githubusercontent.com/75383758/132776409-eacf0eb3-08c3-460c-b9c5-fa9e3690a3db.png)
+
+        a. Ig
+        
+![image](https://user-images.githubusercontent.com/75383758/132776423-5b53fbaf-9473-4795-a62e-5de3932fbc1b.png)
+
+        b. IL
+        
+![image](https://user-images.githubusercontent.com/75383758/132776448-0f3e356d-502e-4653-8f4a-e0e4dbb26d36.png)
+
+        c. VL
+        
+![image](https://user-images.githubusercontent.com/75383758/132776519-d9640272-9911-4078-ab26-12b80bcef3cc.png)
+
+        Figura b:
+        
+![image](https://user-images.githubusercontent.com/75383758/132776550-ee380369-2a2f-49d5-9205-bedb8e88cc39.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132776567-e741eeed-e14f-4a51-b738-100cc13c1ff6.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132776587-d69d4718-5697-4ada-870c-6165760f063d.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132776599-1550bf52-3808-493a-a5a3-4a7bdacb295c.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132776608-8dc2883f-9c43-4c99-9cef-4365d5fba259.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132776637-b7e5bdf1-5df4-4da7-bb4e-c5cab08eab5e.png)
+
+        a. Ig
+        
+![image](https://user-images.githubusercontent.com/75383758/132776680-1901d8f8-62fd-4c91-b7bc-ca74bf3b92c1.png)
+
+        b. IL
+        
+![image](https://user-images.githubusercontent.com/75383758/132776697-1fc36e06-72e1-4db6-a1de-c7aadd27f02e.png)
+
+        c. VL
+        
+![image](https://user-images.githubusercontent.com/75383758/132776712-6c049711-85b3-4852-9f05-20869aa5e472.png)
+
+23-4 Especiﬁcaciones del transformador de potencia
+
+17. Un transformador tiene una especiﬁcación de voltaje primario de 7.2 kV, a = 0.2, y una especiﬁcación de corriente en el secundario de 3 A. ¿Cuál es la especiﬁcación de kVA?
+
+![image](https://user-images.githubusercontent.com/75383758/132776776-4c4bc2af-acc6-4728-acd6-3161278e8dff.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132776782-22139d9f-736a-4b07-8bb7-0d2edab8f27f.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132776795-4a7cfa90-4766-4b17-9dd0-7641f34c6616.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132776807-16545c00-d8d7-4338-ab90-4b46c59397ea.png)
+
+18. Considere un transformador de 48 kVA, 1200/120 V.
+
+        a. ¿Cuál es la máxima carga de kVA que puede ser manejada a Fp = 0.8?
+        
+                - La máxima carga de kVA es independiente del factor Fp
+                
+                - Por lo tanto el máximo kVA será 48kVA 
+
+        b. ¿Cuál es la máxima potencia que puede ser suministrada a un factor de potencia de carga de 0.75?
+
+                - La máxima carga de kVA es independiente del factor Fp
+
+                - Por lo tanto el máximo kVA será 48kVA
+
+        c. Si el transformador suministra 45 kW a la carga con un factor de potencia de 0.6, ¿está sobrecargado? Justiﬁque su respuesta. 
+        
+![image](https://user-images.githubusercontent.com/75383758/132776995-6552e1b1-88cd-4d2c-ae31-a19df81b70bb.png)
+
+                - El transformador está sobrecargado porque el valor que kVA presenta es mayor
+                
+                - que el actual valor de kVA del transformador
+                
+23-5 Aplicaciones del transformador
+
+19. El transformador de la ﬁgura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lámparas de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es una horno de 2400 W con Fp = 1.0, determine
+
+![image](https://user-images.githubusercontent.com/75383758/132777136-e4c44796-9725-4ca5-aa78-10405c514b42.png)
+
+        Carga 1: Doce 100-W lamps, P1 = 1200 W
+        
+        Carga 2: Calentador, P2 = 1500 W
+        
+        Carga 3: P3 = 2400 W
+        
+        Fp = 1.0
+        
+        Corriente en la carga 1:
+        
+![image](https://user-images.githubusercontent.com/75383758/132777598-388f7d3c-6903-4229-b9cb-62cb98c446f6.png)
+
+        Corriente en la carga 2:
+        
+![image](https://user-images.githubusercontent.com/75383758/132777629-10aa1048-7c9d-4505-a021-e55b0018f594.png)
+
+        Corriente en la carga 3:
+        
+![image](https://user-images.githubusercontent.com/75383758/132777659-dc054d91-2e2a-4f01-a931-c27f45b5f75f.png)
+
+        a. I1
+        
+![image](https://user-images.githubusercontent.com/75383758/132777689-3e73517a-d097-44e5-bd1e-9c1b133d9f6b.png)
+
+        b. I2
+        
+![image](https://user-images.githubusercontent.com/75383758/132777720-1156bfc9-c3a4-4994-8415-2f681d3c7cc9.png)
+
+        c. IN
+        
+![image](https://user-images.githubusercontent.com/75383758/132777746-04e0753b-6ee9-416b-894a-ae11e514e243.png)
+
+        d. Ip
+        
+![image](https://user-images.githubusercontent.com/75383758/132777784-57ec9144-307f-467a-b376-74a270389109.png)
+
+20. Un ampliﬁcador con un voltaje de Thévenin de 10 V y una resistencia de Thévenin de 128 Ω está conectado a una bocina de 8 Ω a través de un transformador 4:1. ¿Está igualada la carga? ¿Cuánta potencia se suministra a la bocina?
+
+![image](https://user-images.githubusercontent.com/75383758/132777844-09be590b-fad6-424c-bf5f-b69b626b7676.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132777853-2377c240-4520-4019-87c6-dc8a86acf93e.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132777862-93951061-32b0-4328-9658-bbfabe8f8864.png)
+
+21. Un ampliﬁcador con un equivalente de Thévenin de 10 V y RTh de 25 Ω maneja una bocina de 4 Ω a través de un transformador con una relación de vueltas de a = 5. ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?
+
+![image](https://user-images.githubusercontent.com/75383758/132777927-07027ecc-e6ab-4852-a554-404c90d16fcb.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132777946-ee94469c-0569-4184-a48e-0edca68829a8.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132777954-471c4f21-87be-4f29-ba7f-8616772b66ac.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132777967-3a05a564-6a12-42c3-bd6e-dfbded82b7e1.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132777978-d1697000-cc5c-4e13-837f-0eb3b8832ba5.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132777992-00a74e33-8fb5-417b-9f83-9f862a190ceb.png)
 
 22. Para la figura 23-76, hay 100 vueltas entre las terminales 1 y 2 y 120 entre las terminales 2 y 3. ¿Qué voltaje en la terminal 1 se produce a 120 V de salida? ¿Y en la terminal 3?
 
