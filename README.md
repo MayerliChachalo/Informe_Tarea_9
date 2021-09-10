@@ -6,6 +6,13 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
 **Objetivo General**
 
+Analizar los capítulos 23 y 24 del libro para dar solución a los problemas planteados en los mismos, de esta manera mejorar el desempeño y agilidad de los circuitos tratados en estos capítulos de suma importancia como el análisis de las ondas 
+sinusoidales,ejercicios de los mismo,potencia real etc .
+
+Investigar métodos para simplificar los circuitos planteados en los ejercicios de esta manera facilitara la resolución del mismo permitiendo dar 
+al ejercicio una solución eficaz y en menos tiempo.Realizar un resumen de los 
+capítulos en un mapa teórico que permita el entendimiento de los temas tratados donde el contenido se encuentre de forma simplificada y contenga fórmulas más usadas de cada tema de suma importancia que se haya visto en el capítulo facilitando el estudio los temas.
+
 **Objetivos específicos**
 
 ## 2. MARCO TEÓRICO 
@@ -817,6 +824,12 @@ b. El voltaje entre el neutro de la carga y el neutro del generador.
 ## 4. VIDEO 
 
 ## 5. CONCLUSIONES
+
+la información indicada en estos capitulo ha sido de mucho apoyo para solventar dudas 
+además que a provechosa al resolver los ejercicios.
+
+Analizamos relaciones entre calores bases con los del deber por medio de computadora cabe recalcar 
+que cumplimos con nuestros objetivos planteados 
 
 ## 6. BIBLIOGRAFÍA
 
